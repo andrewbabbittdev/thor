@@ -8,7 +8,7 @@ Download the [latest release of Obtainium](https://github.com/ImranR98/Obtainium
 
 This is the easiest way to get started, especially on a new device.
 
-1. On your device, download to the [latest release](https://github.com/andrewbabbittdev/thor/blob/main/pack.json).
+1. On your device, download to the [latest release](https://github.com/andrewbabbittdev/thor/releases/tag/latest).
 2. In Obtainium, go to **Import/Export** > **Obtainium Import** and select the file.
 
 Obtainium will now track and update all included apps.
